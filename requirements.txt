@@ -1,0 +1,22 @@
+###### Requirements without Version Specifiers ######
+datetime
+tweepy
+beautifulsoup4
+pandas
+numpy
+preprocessor
+time
+warnings
+snscrape
+GoogleNews
+newspaper3k
+nltk
+scipy
+matplotlib
+seaborn
+vaderSentiment
+wordcloud
+numpy
+scikit-learn
+gensim
+
